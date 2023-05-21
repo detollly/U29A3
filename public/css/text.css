@@ -1,0 +1,10 @@
+
+.text{
+    margin: 0 10%;
+    font-size: 18px;
+    text-align: justify;
+    color: #d1d1d1;
+}
+.container{
+    background-image: url(../img/backgr5.png);
+}
